@@ -1,0 +1,1 @@
+# Khong can cai thu vien ngoai. Tkinter co san trong Python tren Windows.
