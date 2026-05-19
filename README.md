@@ -1,8 +1,9 @@
-# Bài Tập Lớn Giữa Kì Caro AI
+# Bài Tập Giữa Kì Caro AI
 
 ## Thành viên
 
 - 23021357 - Phạm Công Thành
+- 23021303 - Nguyễn Thành Lộc
 
 ## Giới thiệu
 
